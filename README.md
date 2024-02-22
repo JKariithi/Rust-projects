@@ -8,5 +8,5 @@ Disabling the Std leads to 3 errors;
 3. Unwinding panics are not supported without std.
 
 Handling the first error:
-<h1 style : "color = green">First Error</h1>
+<h1 style = "color:green">First Error</h1>
 Easy peasy lemon squeezy - comment out the println!("Hello world")
